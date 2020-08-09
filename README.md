@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Good Good Study,Day Day Up!
+# Good Good Study, Day Day Up!
 <!--
 **Innocent-children/Innocent-children** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
